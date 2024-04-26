@@ -1,33 +1,24 @@
 {
-  "projects": [
+  "services": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "id": "men-hair-cut-35",
+      "serviceName": "Men's Haircut",
+      "price": "€35.00"
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "id": "women-hair-cut-40",
+      "serviceName": "Women's Haircut",
+      "price": "€40.00"
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "id": "kids-hair-cut-30",
+      "serviceName": "Kids Haircut",
+      "price": "€30.00"
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "id": "blow-out-40",
+      "serviceName": "Blow Out",
+      "price": "€40.00"
     }
   ]
 }
