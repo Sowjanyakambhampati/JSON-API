@@ -19,6 +19,106 @@
       "id": "blow-out-40",
       "serviceName": "Blow Out",
       "price": "€40.00"
+    },
+    {
+      "id": "event-styling-70",
+      "serviceName": "Updo/Event Styling",
+      "price": "€70.00"
+    },
+    {
+      "id": "deep-codn-treat-50",
+      "serviceName": "Deep Conditioning Treatment",
+      "price": "€50.00"
+    },
+    {
+      "id": "keratin-treat-80",
+      "serviceName": "Keratin Treatment",
+      "price": "€80.00"
+    },
+    {
+      "id": "scalp-treat-60",
+      "serviceName": "Scalp Treatment",
+      "price": "€60.00"
+    },
+    {
+      "id": "bridal-hair-50",
+      "serviceName": "Bridal Hair(Including trial)",
+      "price": "€50.00"
+    },
+    {
+      "id": "classic-manicure-35",
+      "serviceName": "Classic Manicure",
+      "price": "€35.00"
+    },
+    {
+      "id": "gel-manicure-40",
+      "serviceName": "Gel Manicure",
+      "price": "€40.00"
+    },
+    {
+      "id": "classic-pedicure-25",
+      "serviceName": "Classic Pedicure",
+      "price": "€25.00"
+    },
+    {
+      "id": "spa-pedicure-30",
+      "serviceName": "Spa Pedicure",
+      "price": "€30.00"
+    },
+    {
+      "id": "basic-nail-art-50",
+      "serviceName": "Basic Nail Art",
+      "price": "€50.00"
+    },
+    {
+      "id": "intricate-nail-art-70",
+      "serviceName": "Intricate Nail Art",
+      "price": "€70.00"
+    },
+    {
+      "id": "express-facial-50",
+      "serviceName": "Express Facial",
+      "price": "€50.00"
+    },
+    {
+      "id": "signature-facial-35",
+      "serviceName": "Signature Facial",
+      "price": "€35.00"
+    },
+    {
+      "id": "hydrating-facial-25",
+      "serviceName": "Hydrating Facial",
+      "price": "€25.00"
+    },
+    {
+      "id": "eyebrow-wax-35",
+      "serviceName": "Eyebrow Wax",
+      "price": "€35.00"
+    },
+    {
+      "id": "lip-wax-20",
+      "serviceName": "Lip Wax",
+      "price": "€20.00"
+    },
+    {
+      "id": "full-face-wax-50",
+      "serviceName": "Full Face Wax",
+      "price": "€50.00"
+    },
+    {
+      "id": "brazilian-wax-80",
+      "serviceName": "Brazilian Wax",
+      "price": "€80.00"
+    },
+    {
+      "id": "relaxation-package-150",
+      "serviceName": "Relaxation Package(Includes Massage,Facial,Manicure)",
+      "price": "€150.00"
+    },
+    {
+      "id": "pamperme-package-200",
+      "serviceName": "Pamper Me Package(Includes Pedicure,Scalp treatment,MakeUp)",
+      "price": "€200.00"
     }
   ]
 }
